@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ca2f66e95c86b36f",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ea4cdaa7eac4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5a10a669ee997c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9038b727ddc35036",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e96b9f374f0e6f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869e532232577394",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5208b4ef5edbad7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf06d79e68f0dfab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e587acf89eeddea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22a717f32331d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5e65b0c2af4b2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/freire2005PedagogyOppressed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54e7b0f5e1c0adda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "References/freire2005PedagogyOppressed.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62b3666ea1d09b79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7cb3e7fe0208660b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "References/freire2005PedagogyOppressed.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "869e532232577394",
+  "lastOpenFiles": [
+    "__zotero/CVDFJ8JT/1683780992815755266.html",
+    "__zotero/CVDFJ8JT",
+    "__zotero/tmp-zkgQGT/1683780992815755266.html",
+    "__zotero/tmp-zkgQGT",
+    "__zotero/79SX4WYY/1581927147685687297.html",
+    "__zotero/79SX4WYY",
+    "__zotero/tmp-GINAp5/1581927147685687297.html",
+    "__zotero/tmp-GINAp5",
+    "Templates/ZoteroNote.md",
+    "References/freire2005PedagogyOppressed.md",
+    "Templates/Mdnotes Default Template.md",
+    "sample note.md",
+    "__zotero/NI46S2Y5",
+    "References/freire_2005_PedagogyOppressed.md",
+    "__zotero/URLFYS2I",
+    "__zotero/V8C3U3FE",
+    "References/zegarelli2007LogicDummies.md",
+    "References/freirePedagogyOppressed2005.md",
+    "Untitled.md",
+    "Pasted image 20230817154202.png",
+    "red.md",
+    "Templates/dailyNoteTemplate.md"
+  ]
+}

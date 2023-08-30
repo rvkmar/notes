@@ -1,4 +1,6 @@
+.gitignore
 .obsidian
 desktop.ini
+thumbs.db
 __zotero
 Rubbish
