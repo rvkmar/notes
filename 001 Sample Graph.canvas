@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b3451c37b631c082","x":-700,"y":-200,"width":400,"height":400,"color":"4","type":"file","file":"__zotero/2HC35K4W/Ranjit Kumar-Research Methodology_ A Step-by-Step Guide for Beginners-SAGE Publications Ltd (2010).pdf"},
+		{"type":"file","file":"999 sample note.md","id":"e8f05fd30e3eaf75","x":-20,"y":-280,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"367ad14bf857a354","fromNode":"b3451c37b631c082","fromSide":"right","toNode":"e8f05fd30e3eaf75","toSide":"left","color":"4","label":"positive"}
+	]
+}
